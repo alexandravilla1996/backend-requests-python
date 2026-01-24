@@ -66,7 +66,7 @@ La documentación se redactará en español.
 
 El sistema será utilizado inicialmente con fines académicos y de portafolio.
 
-- El sistema será utilizado como proyecto de portafolio, con fines formativos y de demostración profesional.
+El sistema será utilizado como proyecto de portafolio, con fines formativos y de demostración profesional.
 
 8. Estado del Documento
 
