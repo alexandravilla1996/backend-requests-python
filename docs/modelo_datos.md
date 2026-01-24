@@ -1,8 +1,10 @@
 # Modelo de Datos
 
-## Introducción
+## Backend API – Sistema de Gestión de Solicitudes
 
-Este documento describe el modelo de datos del proyecto Api Backend de Gestión de Solicitudes, el cual será implementado utilizando una base de datos relacional PostgreSQL. El diseño del modelo busca garantizar integridad, consistencia y facilidad de mantenimiento.
+## 1. Introducción
+
+Este documento describe el modelo de datos del proyecto Backend API – Sistema de Gestión de Solicitudes, el cual será implementado utilizando una base de datos relacional PostgreSQL. El diseño del modelo busca garantizar integridad, consistencia y facilidad de mantenimiento.
 
 ## 2. Descripción General
 
