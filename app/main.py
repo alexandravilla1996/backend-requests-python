@@ -16,10 +16,13 @@ app = FastAPI(
     version="1.0.0"
 )
 
+ # Endpoint raíz del sistema. 
+ # Se utiliza para verificar que la API se encuentra en funcionamiento.
 @app.get("/")
 def root():
-    """
-    Endpoint raíz del sistema.
-    Se utiliza para verificar que la API se encuentra en funcionamiento.
-    """
+
+    # Retorna mensaje simple
     return {"message": "API Backend de Solicitudes en ejecución"}
+
+# Registramos las rutas en la aplicación
+app.include_router(request_routes.router)
