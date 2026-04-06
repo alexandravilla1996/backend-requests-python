@@ -1,10 +1,8 @@
 """
 Archivo: main.py
 Descripción:
-Este archivo corresponde al punto de inicio de la API Backend de Gestión
-de Solicitudes. Desde aquí inicia la aplicación y se configuran los
-componentes principales del sistema.
-
+Este archivo corresponde al punto de inicio de la API Backend de Gestión de Solicitudes. 
+Desde aquí inicia la aplicación y se configuran los componentes principales del sistema.
 Autor: Alexandra Maireth Villa Guerra
 Fecha: Enero 2026
 """
